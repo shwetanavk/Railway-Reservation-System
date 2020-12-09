@@ -1,8 +1,7 @@
 # Railway-Reservation-System
 To maintain DATABASE of trains, passenger and tickets using C language. Using file handling tools.
 
-TOTAL SCREENS IN THE PROJECT
-Overall , the project "Railway Reservation System" , will have following screens:
+The project "Railway Reservation System" , will have following screens:
 1. Main Screen
 2. View Trains
 3. Book Ticket
